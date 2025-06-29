@@ -1,6 +1,6 @@
 <h2 align=center>Create octra wallet using CLI</h2>
 
-[![Watch the video](https://i.ytimg.com/vi/bJhVfrvdxVA/maxresdefault.jpg)](https://youtu.be/bJhVfrvdxVA)
+![Watch the video](https://i.ytimg.com/vi/bJhVfrvdxVA/maxresdefault.jpg)
 
 ## 💻 Installation
 - Open any Linux based terminal, you can use VPS / WSL (On windows) or simply you can use virtual IDE as well
