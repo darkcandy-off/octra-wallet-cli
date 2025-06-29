@@ -19,4 +19,8 @@ curl -sSL https://raw.githubusercontent.com/darkcandy-off/octra-wallet-cli/refs/
  ## ⚡ Post-Installation
  - Visit [octra faucet](https://faucet.octra.network) website to request faucet
  - Paste your wallet address, solve captcha and request faucet
+---
 
+## 🙌 Credit
+
+Made by Zun
