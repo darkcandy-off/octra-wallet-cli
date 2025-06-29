@@ -14,7 +14,7 @@ command -v curl >/dev/null 2>&1 || { sudo apt-get update && sudo apt-get install
 ```
 - Now use the below command to generate your octra wallet
 ```
-curl -sSL https://raw.githubusercontent.com/zunxbt/octra-wallet-cli/refs/heads/main/start.sh -o start.sh && chmod +x start.sh && ./start.sh
+curl -sSL https://raw.githubusercontent.com/darkcandy-off/octra-wallet-cli/refs/heads/main/start.sh -o start.sh && chmod +x start.sh && ./start.sh
 ```
  ## ⚡ Post-Installation
  - Visit [octra faucet](https://faucet.octra.network) website to request faucet
