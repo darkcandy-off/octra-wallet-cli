@@ -26,6 +26,10 @@ curl -sSL https://raw.githubusercontent.com/darkcandy-off/octra-wallet-cli/refs/
 ```bash
 sudo apt install python3 python3-pip python3-venv python3-dev -y
 ```
+**For termux users**
+```bash
+pkg install python3 python3-pip python3-venv python3-dev -y
+```
 
 **2. Install CLI**
 ```bash
