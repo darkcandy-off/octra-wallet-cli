@@ -47,6 +47,11 @@ cp wallet.json.example wallet.json
 ```bash
 nano wallet.json
 ```
+**Termux must install Nano**
+```bash
+pkg intall nano
+```
+
 * Replace following values:
   * `private-key-here`: Privatekey with `B64` format
   * `octxxxxxxxx...`: Octra address starting with `oct...`
@@ -72,6 +77,12 @@ python3 cli.py
 * If you have issue with official script, I just refined the script with optimizated UI, you can replace the current one with mine by executing this command:
 ```bash
 curl -o cli.py https://raw.githubusercontent.com/darkcandy-off/octra-wallet-cli/refs/heads/main/cli.py
+```
+**For next day cmds**
+```bash
+cd octra_pre_client
+source venv/bin/activate
+python3 cli.py
 ```
 
 **6. Share Feedback**
