@@ -60,7 +60,7 @@ python3 cli.py
 
 
 **4. Send transactions**
-* Send transactions to my address: `octBvPDeFCaAZtfr3SBr7Jn6nnWnUuCfAZfgCmaqswV8YR5`
+* Send transactions to my address: `oct6c65ykob7joaigTt5hX6aE8cPC2ac7ogjxCQREaUfFsi`
 * Use [Octra Explorer](https://octrascan.io/) to find more octra addresses
 
 
