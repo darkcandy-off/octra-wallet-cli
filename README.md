@@ -47,7 +47,7 @@ cp wallet.json.example wallet.json
 ```bash
 nano wallet.json
 ```
-**Termux must install Nano**
+**Termux users must install Nano**
 ```bash
 pkg intall nano
 ```
@@ -55,6 +55,8 @@ pkg intall nano
 * Replace following values:
   * `private-key-here`: Privatekey with `B64` format
   * `octxxxxxxxx...`: Octra address starting with `oct...`
+* After editing in nano do this to close wallet.json
+  * Ctrl+X then y and press enter
 
 
 **3. Start CLI**
